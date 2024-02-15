@@ -1,6 +1,7 @@
 # qt62JniValueToQML
 This example is using Android Qt 6.2.8 Clang arm64-v8a compiler to  receive the Android value(Java value) through QJni and use Qt emit function to display on QML.  
 
+## Invoke architecture:    
 ![Qt on Android_v3_qt6 2_env](https://github.com/dawi9840/qt62JniValueToQML/assets/19554347/0ffb54eb-946f-46e2-9580-7f1c227c75b9)   
 
 
