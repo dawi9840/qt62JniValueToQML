@@ -6,7 +6,7 @@ This example is using Android Qt 6.2.8 Clang arm64-v8a compiler to  receive the 
 
 
 About the android/libs/car_framework.jar file:      
-The car_framework.jar file size is large than 25 MB. So I put it in the cloud drive. **Please download from [cloud drive](https://drive.google.com/file/d/1uLDje9tRJMZqveUOVi5OUoK3VJaT2BBc/view)**, and put it in the folder path (qt62JniValueToQML/qt62JniValueToQML/android/libs/).   
+The car_framework.jar file size is large than 25 MB. So I put it in the cloud drive. **Please download from [cloud drive](https://drive.google.com/file/d/1uLDje9tRJMZqveUOVi5OUoK3VJaT2BBc/view)**, and put it under this path(qt62JniValueToQML/qt62JniValueToQML/android/libs/).   
 
 
 
